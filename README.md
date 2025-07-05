@@ -1,4 +1,4 @@
-# python-assignment-2
+# Python-assignment-2
 
 # Task-1: Check if a number is even or odd
 
